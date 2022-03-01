@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto the right honourable the Lords of Councill and Session the report, representation, and petition, of the Committee of Advocats, appointed by Your Lordships to meet with the stent-masters of Edinburgh.</title>
+            <author>Faculty of Advocates (Edinburgh, Scotland)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06370</idno>
+            <idno type="STC">Wing U101E</idno>
+            <idno type="STC">ESTC R187840</idno>
+            <idno type="EEBO-CITATION">52529056</idno>
+            <idno type="OCLC">ocm 52529056</idno>
+            <idno type="VID">179185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179185)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto the right honourable the Lords of Councill and Session the report, representation, and petition, of the Committee of Advocats, appointed by Your Lordships to meet with the stent-masters of Edinburgh.</title>
+                  <author>Faculty of Advocates (Edinburgh, Scotland)</author>
+                  <author>Scotland. Court of Session.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns meeting between committee of Faculty of Advocates and stent-masters of Edinburgh about share of taxation payable by city of Edinburgh.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Scotland --  Edinburgh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:179185:1" rendition="simple:additions"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto the Right Honourable The Lords of Councill and Seſſion</hi> The REPORT, REPRESENTA<g ref="char:EOLhyphen"/>TION, and PETITION, of the Committee of <hi>ADVOCATS,</hi> appointed by your Lordſhips to meet with the <hi>Stent-Maſters</hi> of <hi>Edinburgh:</hi>
+            </head>
+            <opener>SHEWETH</opener>
+            <p>THAT in purſuance of the priviledges found by Decreet of your Lordſhips in <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> 1687 to belong to the Members of the Colledge of Juſtice and in obedience to your Lordſhips appointment whereby we were authorized and appointed by your Lord<g ref="char:EOLhyphen"/>ſhips to go through with the <hi>Stent-Maſters</hi> of <hi>Edinburgh</hi> and to do all things neceſ<g ref="char:EOLhyphen"/>ſar in order to the ſeeing of the Towns proportion of the publick burdens, Juſtly and equally ſaid on &amp;c. We did meet with the Moderator of the <hi>Stent</hi> and remanent <hi>Stent-Maſters</hi> and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id concert with them, that the going thorow in order to the Survey, ſhould Commence the <hi>2d</hi> of <hi>January</hi> laſt; And that we might make ſurvey Books of our own, In ſuch manner as we ſhould think fit, in regaird they would not allow us the uſe of their Survey Books of the for<g ref="char:EOLhyphen"/>mer year for our Information. And becauſe as they pretended, it would be eight or ten days work they deſired we might be punctuall in obſerving the diets, which we agreed to Becauſe they pretended they were oblidged to incloſe in order to the proportioning of the Stent upon the to day of <hi>January</hi> thereafter, which we alſo were ſatisfied with, that ſo the buſineſs might have <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een compleated before the commencement of the Seſſion.</p>
+            <p>Conform to this Concert, we did begin the Survey upon the <hi>2d</hi> of <hi>January,</hi> and continued ſo to do for ſome diets very punctually. But at length the <hi>Stent Maſters</hi> perceiving that we did more ſeriouſly apply in this than in any former years for attaining to the full knowledge <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that affair, by making ſcrolls of the ſurvey in the terms as we had concerted with the <hi>Stent Maſters</hi> of before. They became moſt uneaſy and ſhifted the going thorow, albeit we were always <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady. For a ſpecious pretext to thoſe delayes, ſome pretended one excuſe and ſome an other <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us perceiveing that their deſign could be no other but to wearie us out of it or to run us up<g ref="char:EOLhyphen"/>on the Seſſion, when we could not ſo conveniently attend. We did commiſſion at ſome of our Num<g ref="char:EOLhyphen"/>ber to ſignify to the Moderator of the Towns <hi>Stent-Maſters,</hi> That we were obſerving unpreſiden<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and extraordinary delays in their making up the ſurvey, with which we would acquaint our Lordſhips unleſs they would rectifie that abuſe for the future, and haveing received no ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>factory anſwer, we did require them under form of Inſtrument to go thorow <hi>de die in diem</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Proteſted in the terms of our Inſtruments herewith produced. Notwithſtanding whereof al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eit ſome of them did thereafter go for ſome diets, yet they did it with ſuch reluct<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancie, that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of them never went at once, and keeped us ſtill in ſuſpence, with ſuch ſham and Dilatory an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wers as this, that they knew not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hether they could go or not. Whereupon we reſolved a<g ref="char:EOLhyphen"/>mongſt our ſelues, not only <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be ready to attend them daily untill the Seſſion ſhould ſit down <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at we might have redreſs. But alſo that we might now and then require thoſe <hi>Stent-maſters</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our particular diſtricts, to go about the ſurvey, with us at the ordinary diets, and which all <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us did obſerve, as appears by ſeveral Inſtruments likewiſe herewith produced, but all to no <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urpoſe, none of us having had opportunity to go thorow out whole bounds, and ſome not one half and others not a third thereof; thorow the <hi>Stent-Maſters</hi> their not concurring to attend the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets. By all which it is very preſumeable that there is ſome Latent Myſtery in that affair, To <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e knowledge whereof they do not incline the <hi>Colledge</hi> of <hi>Juſtice</hi> ſhould attain, Eſpecialy ſeing <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s is certain that before the Revolution, when <hi>Eight months Ceſs</hi> was impoſed, the propor<g ref="char:EOLhyphen"/>tions of the Heritors was only about <hi>Eight per Cent</hi> of the valued rent, and now in theſe lat<g ref="char:EOLhyphen"/>ter years it has been for the moſt part 15 or 16 or 17 <hi>per cent</hi> and ſome times more, <hi>for</hi> the like Number of Months. And ſeeing there is no apparent Method of diſcovering what occaſi<g ref="char:EOLhyphen"/>ons this difference, unleſs we be preſent at the whole ſurvey, &amp; ſo have before us the Totall rent of the Town, and Likeways be preſent at proportioning the <hi>Stent,</hi> both upon <hi>Land</hi> and <hi>Trade,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that now they abſolutely refuſe to go thorow, unleſs we would engage to make no ſcrolls <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> write, of the Survey, and which if veilded to, might render the deſign altogether Eluſory: and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to Evidence the deſire we had of contributing our endeavours, to procure a laſting Friend<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ip betwixt the Colledge of <hi>Juſtice</hi> and the good Town, we did ſo farr comply with the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of ſome of the Magiſtrates and Moderator of the <hi>Stent</hi> that after ſeveral meetings and communings wherein they repreſented (tho without ground) that our making up of Scrolls <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the valuation might give umbrage to the neighbourhead we agreed to ſuperceed the perfecting <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Scrolls upon their going into ſuch propoſalls as might tend to give us the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erfect knowledge and information of the way and manner of impoſing and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollecting their <hi>Stent,</hi> upon Land and Trade, which we gave in unto them <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the terms hereto ſubjoyned and to which propoſalls tho' they pretended to
+<pb n="2" facs="tcp:179185:2"/>acquieſce<g ref="char:punc">▪</g> yet when we came to require ſome proper Security for the performance, <hi>viz.</hi> Th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Moderator</hi> of the <hi>Stent</hi> and the <hi>Praeſes</hi> of our <hi>Committee,</hi> for their reſpective Brethren <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Propoſals, in token of their being agreed to by both parties, the ſame was poſitively re<g ref="char:EOLhyphen"/>fuſed to us: from which 'tis very plain, that the deſign from the beginning has been, and ſti<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> continues, to deprive us of all proper means, whereby to come to the knowledge of any ſuc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> particulars, as your Lordſhips Decreet &amp; Act of Sederunt, and priviledges of the Colledge of Ju<g ref="char:EOLhyphen"/>ſtice thereby confirmed, intitles us to: And ſeing our demanding ſome ſecurity on the part of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Town &amp; theſe <hi>Stent-maſters</hi> for performance of ſo modeſt &amp; equal Propoſals as we tend<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to them, was both equal, and abſolutely neceſſary; ſince otherwiſe, without ſome Document of their Conſent in writing, they would no doubt have reſiled in the ſame manner from the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as they did from the firſt Concert ſolemnly agreed to betwixt the <hi>Stent maſters</hi> and us at a g<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ral Meeting, whereby at their own deſire, and by their conſent we were to make up Valuati<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Books of our own, in regard they refuſed us the benefit of their old Scrol-books for ſa<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> that labour: And ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after we had all undergone a great Fatigue, in going through and carry<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on our Books a conſiderable length, they all broke off the Concert, and refuſed to go through any more with us, unleſs we would lay aſide making up of Books any further. Therefore <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is humbly craved, that your Lordſhips may apply ſome effectual Remedy for preventing th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Abuſe committed againſt the Members of the Colledge of Juſtice, and particularly (att<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any other proper Expedient that can be fallen upon) to ordain the Town Council of <hi>Edinburg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the preſent <hi>Stent Maſters</hi> to produce the former years Books, both of the Surveys <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſubſcribed Stent Books of Land and Trade (the inſpection of which ſubſcribed Books by <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Act</hi> of <hi>Parl,</hi> is allowed to every Neighbour to demand) and that in order to the making up<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this years Survey, they may be ordained to go throw at ſuch Diets, as we who are appointed <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Lordſhips to at end the ſame, may conveniently be preſent, for perfecting the Scrolls whe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>in we are already advanced as far as we have ſurveyed; that ſo your Lordſhips Authority m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſalved; and our Priviledges vindicated in the terms, and conform to your Lordſhips <hi>Act</hi> of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>derunt</hi> and <hi>Decreet</hi> above mentioned.</p>
+            <div type="articles">
+               <head>Here follows the Articles agreed to, betwixt the Moderator <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Stent-Maſters of <hi>Edinburgh,</hi> with concourſe of Baillie <hi>Nai<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> and Dean of Gild <hi>Neilſon,</hi> on behalf of the Magiſtracie <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Council of <hi>Edinburgh,</hi> and the Committee of Advocats a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pointed by the Faculty, and authorized by the Lords of S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſion.</head>
+               <p>
+                  <hi>1mo,</hi> THAT the eight Advocats appointed by the Faculty of Advocats, &amp; authorized by <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lords of Seſſion, ſhall not only go along with the Stent Maſters, at their taking <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſeveral Surveys, but alſo make their reſpective privat Remarks apart, and at <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cloſe of each Diet, that the haill Books, wherein the Valuations are contained and ſet down <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Stent-Maſters, be marked by the Advocats preſent: for preventing the Subſtitution of ot<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> in their place.</p>
+               <p>
+                  <hi>2do,</hi> That the ſaids haill Scroll Books ſhall be ſeen when finiſhed, and peruſed by the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vocats themſelves at their own Meetings, and remain with them for a competent ſpace, not <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than 48 hours before incloſing.</p>
+               <p>
+                  <hi>3tio,</hi> That they shall ſee the Books containing the Total of the Stent, both upon Land <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Trade, made up from the reſpective Scroll Books, as likeways the Collectors Book made <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from the whole, which is the Rule of the upli<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing; that they may peruſe them amongſt th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſelves for a competent ſpace, not leſs than 48 hours, and compare the one with the other, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter the ſaids Books are made up by the Stent-Maſters, and that both before and after ſig<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> thereof, and that the Moderator may be preſent with the Advocats, at the peruſing the ſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Books.</p>
+               <p>
+                  <hi>4to,</hi> That the Diets for compleating the Survey, and for proportioning the Stent, a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> incloſing, ſhall be concerted and a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ju<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, to the reſpective Advocats of the Committee <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Conven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entle.</p>
+               <p>
+                  <hi>5to,</hi> That Mr. <hi>Walter Stuart</hi> continue to make up his Scroll Book for the third Bo<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> in conjunction with the Stent Maſters of the ſaid Bounds, till they come within four P<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of the old Scroll-Book, that ſo he may bring his Book equally up with others of the Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mittee of Advocats, which he hath <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as yet gotten done, throw thoſe Stent-Maſters, ap<g ref="char:EOLunhyphen"/>pointed for his bounds, being the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> who broke off the Survey.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
